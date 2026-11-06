@@ -4,4 +4,4 @@ from data import create_data
 data_list = create_data()
 print("Hur många värden som finns i res:", len(data_list))
 print("Första tio värdena:", data_list(:10)
-      
+      s
