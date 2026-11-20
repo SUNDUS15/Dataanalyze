@@ -1,0 +1,6 @@
+1. Kör main.py två gånger. Blir de första tio värdena likadana?
+2. Ändra antalet genererade värden från 100 till 20. Vad visar len(data)?.
+3. Ändra intervallet till intervallet 50-60. Ligger de genererade värdena ligger inom förväntat intervall? (återställ därefter till 100 värden mellan 0 och 100)
+4. Kör programmet och kontrollera att histogrammet öppnas. Ändra bins från 10 till 5 och sedan 20. Vad ändras i bilden och eventuellt i datamängden?
+5. Generera 1 000 värden i stället för 100. Beskriv vad som förändras i histogrammets utseende.
+6. Ändra intervallet från 0-100 till 0-10. Vad händer med x-axeln? (återställ sen till 100 värden mellan 0 och 100 samt till 10 stapelintervall).

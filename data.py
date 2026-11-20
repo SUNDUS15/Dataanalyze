@@ -1,6 +1,6 @@
-import numpy 
+import numpy as np
 def create_data(): 
-    data = numpy.random.uniform(0, 100,100)
+    data = np.random.uniform(0, 100,100)
     return data 
 
-print(x)
+
